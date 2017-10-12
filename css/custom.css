@@ -1,0 +1,201 @@
+.nav-bar {
+  border-bottom: 1px solid #E2E2E2;
+  padding: 10px 0px;
+  margin: 0px 0px 30px;
+}
+
+.nav-bar img {
+  height: 40px;
+  display: block;
+  margin: 0 auto;
+}
+
+.full-width-img {
+  width: 100%;
+}
+
+/*!  Address, Price, Etc  */
+
+.home-info {
+  padding: 50px 0px;
+  margin: 0px 0px 50px;
+  border-bottom: 1px solid #E2E2E2;
+}
+
+.address {
+  margin: 0px 0px 30px
+}
+
+.time-listed {
+  color: #999999;
+  font-size: 14px;
+  line-height: 2;
+}
+
+.home-info h3 {
+  line-height: .9;
+}
+
+.home-info .text-muted {
+  font-size: 14px;
+}
+
+.detail-info {
+  float: right;
+  margin-left: 40px;
+  text-align: right;
+}
+
+/*!  About This Home  */
+
+.about-this-home {
+  padding: 0px 0px 60px;
+}
+
+.key-details {
+  margin: 40px 0px 0px;
+}
+
+.key-details .col {
+  margin-left: -8px;
+}
+
+.key-details dt {
+  color:#999999;
+  font-weight: normal;
+}
+
+.about-this-home a {
+  margin-top: 30px;
+  display: block;
+}
+
+/*!  Map Section  */
+
+.map-section {
+  border-bottom: 1px solid #E2E2E2;
+  padding: 0px 0px 60px;
+}
+
+.map-section a {
+  margin-top: 5px;
+}
+
+/*!  Expanding Sections  */
+
+.item {
+  border-bottom: 1px solid #E2E2E2;
+}
+
+.clickable-tab {
+  padding: 35px 0px 20px;
+  width: 100%;
+  height: 100%;
+}
+
+.expanding-header {
+  float: left;
+  width: 300px;
+  color: #333;
+}
+
+.expanding-fact {
+  float: left;
+  line-height: 2;
+  color: #333;
+}
+
+.clickable-tab img {
+  float: right;
+  height: 12px;
+  margin-top: 10px;
+}
+
+.clickable-tab img.price-calculator {
+  width: 418px;
+  height: 134px;
+  margin:0px 0px 20px;
+}
+
+.collapse {
+  margin: 0px 0px 30px;
+}
+
+/*!  Nearby Homes  */
+.nearby-homes {
+  margin:50px 0px;
+}
+
+.nearby-homes h4 {
+  margin-bottom: 30px;
+}
+
+.card {
+  border:none;
+}
+
+.card-body {
+  padding: 10px 0 0;
+}
+
+.card-title {
+  margin:0 0 5px;
+}
+
+.card-text {
+  font-size: 14px;
+  margin:0 0 5px;
+}
+
+.card-address{
+  font-size: 12px;
+  color: #999999;
+}
+
+
+/*!  modal  */
+
+.modal-lg {
+  max-width: 750px;
+}
+
+.modal-content {
+  padding: 40px 40px 30px;
+}
+
+.modal-header {
+  padding: 0px 0px 30px;
+  margin: 0 15px;
+}
+
+.modal-overview {
+  border-bottom: 1px solid #E2E2E2;
+  padding: 10px 0 30px;
+}
+
+.modal-overview .key-details {
+  margin: 20px 0px 0px;
+}
+
+#accordion .card .card-header {
+  background-color: #fff;
+  padding: 30px 0;
+}
+
+.collapse {
+  margin: 0px 0px 0px;
+}
+
+.collapse .card-body {
+  border-bottom: 1px solid #E2E2E2;
+}
+
+/*!  Footer  */
+.custom-footer {
+  margin: 50px 0px;
+}
+
+
+
+
+
