@@ -1,3 +1,38 @@
+
+/*!  Global settings  */
+
+h1, .h1 {
+  font-size: 3.125rem;
+}
+
+h2, .h2 {
+  font-size: 2.25rem;
+}
+
+h3, .h3 {
+  font-size: 1.75rem;
+}
+
+h4, .h4 {
+  font-size: 1.375rem;
+}
+
+h5, .h5 {
+  font-size: 1.25rem;
+}
+
+h6, .h6 {
+  font-size: 1rem;
+}
+
+u {    
+    border-bottom: 1px dotted #999;
+    text-decoration: none;
+}
+
+
+/*!  Nav Bar  */
+
 .nav-bar {
   border-bottom: 1px solid #E2E2E2;
   padding: 10px 0px;
@@ -23,7 +58,8 @@
 }
 
 .address {
-  margin: 0px 0px 30px
+  margin: 0px 0px 30px;
+  font-weight: 600;
 }
 
 .time-listed {
@@ -43,7 +79,6 @@
 .detail-info {
   float: right;
   margin-left: 40px;
-  text-align: right;
 }
 
 /*!  About This Home  */
@@ -65,9 +100,11 @@
   font-weight: normal;
 }
 
-.about-this-home a {
+.about-this-home a, .about-this-home a:not([href]):not([tabindex]) {
   margin-top: 30px;
   display: block;
+  color: #449DB0;
+  cursor: pointer;
 }
 
 /*!  Map Section  */
