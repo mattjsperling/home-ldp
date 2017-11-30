@@ -147,6 +147,23 @@ u {
   margin-left: 40px;
 }
 
+/*!  price-insights  */
+
+.price-insights {
+  padding: 50px 0px 50px;
+  border-bottom: 1px solid #E2E2E2;
+}
+
+.price-insights h4 {
+  margin-bottom: 30px;
+}
+
+.price-insights-icon {
+  width: 36px;
+  padding: 10px 10px 0px 0px;
+}
+
+
 /*!  About This Home  */
 
 .about-this-home {
