@@ -21,3 +21,11 @@ $(window).scroll(function() {
         $(".page-nav").removeClass("nav-border");
     }
 });
+
+$(function () {
+  $('[data-toggle="popover"]').popover()
+})
+
+$('.popover-dismiss').popover({
+  trigger: 'focus'
+})
