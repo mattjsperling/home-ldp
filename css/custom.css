@@ -468,6 +468,35 @@ u {
   padding-top: 0px;
 }
 
+/*! header first */
 
+
+#header-first-v1 .container {
+  max-width: 1020px;
+}
+
+#header-first-v1 .address-banner {
+  background-color: #F9F8F7;
+}
+
+#header-first-v1 .home-info {
+  padding: 30px 0 15px;
+  border-bottom: none;
+  margin: 0px 0px 20px
+}
+
+#header-first-v1 .detail-info {
+  margin-left: 50px;
+}
+
+#header-first-v1 .secondary-info {
+  font-size: 14px;
+  color: #585858;
+  margin: 20px 0px 0px;
+}
+
+#header-first-v1 .home-info h3 {
+  font-size: 1.5rem;
+}
 
 
